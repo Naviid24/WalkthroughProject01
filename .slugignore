@@ -1,0 +1,8 @@
+.git/
+.kaggle/
+models/
+data/
+*.csv
+*.h5
+*.zip
+*.tar.gz
